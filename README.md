@@ -8,6 +8,6 @@ If unsupported city names are provided, alert window will be displayed informing
 
 Snapshot:
 --
-https://github.com/aravindprasad90/weather-app-php-sql/blob/master/weather-app.png 
+weather-app.png 
 
 
