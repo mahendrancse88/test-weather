@@ -8,6 +8,6 @@ If unsupported city names are provided, alert window will be displayed informing
 
 Snapshot:
 --
-weather-app.png 
+<img src="weather-app.png"/>
 
 
